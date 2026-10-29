@@ -1,5 +1,7 @@
 # جولان كلينر برو
 
+[دليل الوظائف والاستخدام](GUIDE.ar.md) · [English guide](GUIDE.md) · [الإصدارات: APK والمصدر الكامل](https://github.com/GOLAN2CODE/golan-cleaner-pro/releases)
+
 [English](README.md)
 
 معاينة Android لإدارة الملفات والتخزين **0.11.1 / الرمز 14**، الحزمة `app.golan.cleaner.pro`؛ الحد الأدنى Android 9/API 28، والبناء والاستهداف SDK 36. يدعم العربية والإنجليزية واتجاهي الكتابة ووضع النظام الفاتح والداكن وهوية مكنسة GOLAN. ملف APK المسلّم موقع بمفتاح debug.

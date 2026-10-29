@@ -1,5 +1,7 @@
 # Golan Cleaner Pro
 
+[Feature and use guide](GUIDE.md) · [دليل الاستخدام العربي](GUIDE.ar.md) · [Releases: APK and complete source](https://github.com/GOLAN2CODE/golan-cleaner-pro/releases)
+
 [العربية](README.ar.md)
 
 Android storage/file-management preview **0.11.1 / code 14**, package `app.golan.cleaner.pro`; Android 9/API 28 minimum, SDK/target 36. Arabic/English, RTL/LTR and system light/dark support with the GOLAN broom identity. The delivered APK is debug-signed.
